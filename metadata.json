@@ -1,0 +1,6 @@
+{
+  "name": "NetBypass",
+  "description": "Автоматическое подключение к бесплатным быстрым серверам для обхода ограничений Gemini и блокировок.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
